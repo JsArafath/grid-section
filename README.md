@@ -2,7 +2,8 @@
 
 ````bash
 # Clone this repository
-$ git clone https://github.com/JsArafath/Fitness-Website-React.git
+$ git clone https://github.com/JsArafath/
+grid-section.git
 
 # Go into the repository
 $ cd firebase-authentication
